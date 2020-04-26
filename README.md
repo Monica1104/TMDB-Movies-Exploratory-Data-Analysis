@@ -11,5 +11,5 @@ After downloading the data needed (tmdb-movies.csv here), go to the notebook fil
 > Place the dataset under the same directory of notebook for easy access
 > More exploration can be done with the data.
 
-### Conclusion
+## Conclusion
 See `Conclusion` part in the notebook file.
